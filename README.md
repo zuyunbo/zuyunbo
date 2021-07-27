@@ -18,7 +18,7 @@ I'm zuyunbo,
 
 <!--START_SECTION:waka-->
 ```text
-java         10 hrs 46 mins  ██████████▒░░░░░░░░░░░░░░   41.85 % 
+java         3 hrs 46 mins   ██████████▒░░░░░░░░░░░░░░   41.85 % 
 python       1 hr 33 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 % 
 JavaScript   1 hr 3 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
 Other        19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
