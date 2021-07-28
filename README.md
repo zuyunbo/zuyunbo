@@ -26,6 +26,4 @@ YAML     2 mins          ▓░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-#### :star2: Projects starred by me
-flut
 
