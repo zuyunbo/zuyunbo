@@ -18,7 +18,11 @@ I'm zuyunbo,
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+XML      40 mins         █████████▓░░░░░░░░░░░░░░░   38.57 % 
+Python   29 mins         ███████░░░░░░░░░░░░░░░░░░   27.36 % 
+SQL      17 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+Java     14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+YAML     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 ```
 <!--END_SECTION:waka-->
 
