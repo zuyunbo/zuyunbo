@@ -6,7 +6,7 @@
 I'm zuyunbo,
 
 -   :hammer_and_pick: GitHub Actions, a little bit Python
--   :man_scientist: [INTP](https://www.16personalities.com/intp-personality) personality
+-   :man_scientist: [INTP](https://www.16personalities.com/profiles/3302586f07ca3) personality
 -   :man: Pronouns: /cool cola
 -   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/zuyunbo.gpg)
 
