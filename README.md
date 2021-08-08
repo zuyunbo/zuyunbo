@@ -13,7 +13,6 @@ I'm zuyunbo,
 ---
 
 #### :bar_chart: Weekly development breakdown
-
 <!--START_SECTION:waka-->
 ```text
 Java     9 hrs 1 min     ███████████░░░░░░░░░░░░░░   43.38 % 
