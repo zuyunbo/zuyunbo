@@ -15,11 +15,11 @@ I'm zuyunbo,
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Java       25 hrs 34 mins  ████████████████████████▒   97.10 % 
-Other      15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-Markdown   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-YAML       9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-XML        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Java       19 hrs 9 mins   ████████████████████████▒   96.83 % 
+XML        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Markdown   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Other      9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+YAML       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 ```
 <!--END_SECTION:waka-->
 
