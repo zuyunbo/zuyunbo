@@ -16,10 +16,10 @@ I'm zuyunbo,
 <!--START_SECTION:waka-->
 
 ```text
-Java                  8 hrs 53 mins   ████████████████████████▒   96.67 %
-Text                  11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-Properties            6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-Sublime Text Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Java                  8 hrs 32 mins   ████████████████████████░   96.53 %
+Text                  11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Properties            6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Sublime Text Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
