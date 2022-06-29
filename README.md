@@ -16,8 +16,8 @@ I'm zuyunbo,
 <!--START_SECTION:waka-->
 
 ```text
-Java         6 hrs 51 mins   ███████████████▓░░░░░░░░░   63.13 %
-Other        1 hr 21 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.47 %
+Java         3 hrs 37 mins   ███████████████▒░░░░░░░░░   60.87 %
+Other        1 hr            ████▒░░░░░░░░░░░░░░░░░░░░   17.05 %
 ```
 
 <!--END_SECTION:waka-->
