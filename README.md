@@ -16,12 +16,7 @@ I'm zuyunbo,
 <!--START_SECTION:waka-->
 
 ```text
-XML          1 hr 18 mins    █████████████████████░░░░   84.37 %
-Java         14 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.49 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
