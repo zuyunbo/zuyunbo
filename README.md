@@ -16,7 +16,11 @@ I'm zuyunbo,
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+XML          1 min           █████████████████████▓░░░   86.50 %
+Java         0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+Markdown     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+YAML         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
